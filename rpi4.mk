@@ -33,6 +33,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0 \
     ro.rfkilldisabled=1
 
+# bluetooth test
+PRODUCT_PACKAGES += \
+    Bluetooth
+    
 # application packages
 PRODUCT_PACKAGES += \
     RpLauncher
