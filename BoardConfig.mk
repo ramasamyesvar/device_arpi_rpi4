@@ -66,8 +66,6 @@ BOARD_HAVE_BLUETOOTH_BCM := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/arpi/rpi4/bluetooth
 BOARD_CUSTOM_BT_CONFIG := device/arpi/rpi4/bluetooth/vnd_rpi4.txt
 
-USE_CAMERA_STUB := true
-
 BOARD_SEPOLICY_DIRS := \
     device/arpi/rpi4/sepolicy
 
