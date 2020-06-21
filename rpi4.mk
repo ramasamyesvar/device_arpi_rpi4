@@ -36,6 +36,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # application packages
 PRODUCT_PACKAGES += \
     DeskClock \
+    Bluetooth \
     RpLauncher
 
 # system packages
